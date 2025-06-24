@@ -66,11 +66,11 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=NaumaanSaifi1&color=blue&label=Profile+Views&style=flat-square" alt="Profile Views" />
     <br><br>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=NaumaanSaifi1&theme=dark&hide_border=false" alt="GitHub Streak" width="80%" style="margin: 1rem 0;" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=NaumaanSaifi1&theme=dark&hide_border=false&cache_bust=1" alt="GitHub Streak" width="80%" style="margin: 1rem 0;" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=NaumaanSaifi1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" width="80%" style="margin: 1rem 0;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NaumaanSaifi1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&cache_bust=1" alt="GitHub Stats" width="80%" style="margin: 1rem 0;" />
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumaanSaifi1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="80%" style="margin: 1rem 0;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumaanSaifi1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_bust=1" alt="Top Languages" width="80%" style="margin: 1rem 0;" />
 </div>
 
 
